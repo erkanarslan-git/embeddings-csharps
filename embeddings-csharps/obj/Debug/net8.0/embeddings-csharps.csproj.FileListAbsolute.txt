@@ -127,3 +127,4 @@ C:\Users\Erkan\source\repos\embeddings-csharps\embeddings-csharps\obj\Debug\net8
 C:\Users\Erkan\source\repos\embeddings-csharps\embeddings-csharps\obj\Debug\net8.0\embeddings-csharps.pdb
 C:\Users\Erkan\source\repos\embeddings-csharps\embeddings-csharps\obj\Debug\net8.0\embeddings-csharps.genruntimeconfig.cache
 C:\Users\Erkan\source\repos\embeddings-csharps\embeddings-csharps\obj\Debug\net8.0\ref\embeddings-csharps.dll
+C:\Users\Erkan\source\repos\embeddings-csharps\embeddings-csharps\obj\Debug\net8.0\embeddings-csharps.sourcelink.json
