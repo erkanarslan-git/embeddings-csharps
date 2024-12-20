@@ -16,7 +16,7 @@ namespace embeddings_csharps
             try
             {
                 var connectionString = "Data Source=advertisements1.db;";
-                var openAIKey = "Token";
+                var openAIKey = "AI Token";
 
                 var openAIService = new Services.OpenAIService(openAIKey);
                 var databaseService = new Services.DatabaseService(connectionString);

@@ -2570,11 +2570,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Erkan\\source\\repos\\embeddings-csharps\\embeddings-csharps\\embeddings-csharps.csproj",
+      "projectUniqueName": "C:\\Users\\Erkan\\Documents\\GitHub\\embeddings-csharps\\embeddings-csharps\\embeddings-csharps.csproj",
       "projectName": "embeddings-csharps",
-      "projectPath": "C:\\Users\\Erkan\\source\\repos\\embeddings-csharps\\embeddings-csharps\\embeddings-csharps.csproj",
+      "projectPath": "C:\\Users\\Erkan\\Documents\\GitHub\\embeddings-csharps\\embeddings-csharps\\embeddings-csharps.csproj",
       "packagesPath": "C:\\Users\\Erkan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Erkan\\source\\repos\\embeddings-csharps\\embeddings-csharps\\obj\\",
+      "outputPath": "C:\\Users\\Erkan\\Documents\\GitHub\\embeddings-csharps\\embeddings-csharps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
