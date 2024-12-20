@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("embeddings-csharps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1c538aea85501f5b904223cc5ef2a6807f1afc8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+890c5edab505423c34b81950ef97387efc081c43")]
 [assembly: System.Reflection.AssemblyProductAttribute("embeddings-csharps")]
 [assembly: System.Reflection.AssemblyTitleAttribute("embeddings-csharps")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

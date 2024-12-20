@@ -1,22 +1,27 @@
 ﻿using embeddings_csharps.Services;
+using DotNetEnv;
 
 namespace embeddings_csharps
+
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             // Ana asenkron işlemi çalıştırıyoruz
-            RunAsync(args).GetAwaiter().GetResult();
+            RunAsync(args).GetAwaiter().GetResult();   
         }
 
+   
 
         static async Task RunAsync(string[] args)
         {
+
             try
             {
-                var connectionString = "Data Source=advertisements1.db;";
-                var openAIKey = "AI Token";
+                string connectionString = "Data Source=advertisements1.db";
+                var openAIKey = "UjUY7_J3_ikkA";
 
                 var openAIService = new Services.OpenAIService(openAIKey);
                 var databaseService = new Services.DatabaseService(connectionString);

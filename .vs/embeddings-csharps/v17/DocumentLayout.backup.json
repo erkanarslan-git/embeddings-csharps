@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Erkan\\source\\repos\\embeddings-csharps\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Erkan\\Documents\\GitHub\\embeddings-csharps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76AF0D73-D8FD-4CE7-A0A0-A021EE7AAA1D}|embeddings-csharps\\embeddings-csharps.csproj|c:\\users\\erkan\\documents\\github\\embeddings-csharps\\embeddings-csharps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AF0D73-D8FD-4CE7-A0A0-A021EE7AAA1D}|embeddings-csharps\\embeddings-csharps.csproj|solutionrelative:embeddings-csharps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AF0D73-D8FD-4CE7-A0A0-A021EE7AAA1D}|embeddings-csharps\\embeddings-csharps.csproj|c:\\users\\erkan\\documents\\github\\embeddings-csharps\\embeddings-csharps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76AF0D73-D8FD-4CE7-A0A0-A021EE7AAA1D}|embeddings-csharps\\embeddings-csharps.csproj|solutionrelative:embeddings-csharps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AF0D73-D8FD-4CE7-A0A0-A021EE7AAA1D}|embeddings-csharps\\embeddings-csharps.csproj|c:\\users\\erkan\\documents\\github\\embeddings-csharps\\embeddings-csharps\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76AF0D73-D8FD-4CE7-A0A0-A021EE7AAA1D}|embeddings-csharps\\embeddings-csharps.csproj|solutionrelative:embeddings-csharps\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 274,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +47,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:2020865169:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Erkan\\Documents\\GitHub\\embeddings-csharps\\embeddings-csharps\\appsettings.json",
+              "RelativeDocumentMoniker": "embeddings-csharps\\appsettings.json",
+              "ToolTip": "C:\\Users\\Erkan\\Documents\\GitHub\\embeddings-csharps\\embeddings-csharps\\appsettings.json",
+              "RelativeToolTip": "embeddings-csharps\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T20:03:24.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Erkan\\Documents\\GitHub\\embeddings-csharps\\embeddings-csharps\\.env",
+              "RelativeDocumentMoniker": "embeddings-csharps\\.env",
+              "ToolTip": "C:\\Users\\Erkan\\Documents\\GitHub\\embeddings-csharps\\embeddings-csharps\\.env",
+              "RelativeToolTip": "embeddings-csharps\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-20T19:49:34.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erkan\\Documents\\GitHub\\embeddings-csharps\\embeddings-csharps\\Program.cs",
+              "RelativeDocumentMoniker": "embeddings-csharps\\Program.cs",
+              "ToolTip": "C:\\Users\\Erkan\\Documents\\GitHub\\embeddings-csharps\\embeddings-csharps\\Program.cs",
+              "RelativeToolTip": "embeddings-csharps\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:41:34.303Z",
+              "EditorCaption": ""
             }
           ]
         }
